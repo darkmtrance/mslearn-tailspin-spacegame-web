@@ -138,8 +138,6 @@ _TeamCity*
 *.coverage
 *.coveragexml
 
-[Cc]ode[Cc]overage/
-
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
@@ -332,3 +330,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# SonarQube
+.sonarqube/
